@@ -153,3 +153,7 @@ body {
     background-color: var(--botao-azul-efeito);
     color: var(--cor-de-fundo);
 }
+img{
+    height: 300px;
+    width: 450px ;
+}
