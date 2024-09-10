@@ -129,6 +129,8 @@ body {
     justify-content: center;
     list-style-type: none;
     margin-top: 1em;
+     width: 35px;
+    height: 20px;
 }
 
 .lista__link a{
