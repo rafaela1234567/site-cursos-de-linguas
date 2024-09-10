@@ -120,8 +120,6 @@ body {
 .rodape {
     text-align: center;
     margin: 5em 3em;
-    width: 300px;
-    height: 200px;
 }
 
 .rodape__lista {
@@ -129,8 +127,6 @@ body {
     justify-content: center;
     list-style-type: none;
     margin-top: 1em;
-     width: 300px;
-    height: 200px;
 }
 
 .lista__link a{
